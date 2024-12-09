@@ -1,0 +1,7 @@
+C:\Users\1409-13\Desktop\Ramir  9a\ConsoleApp1\smqtane\bin\Debug\smqtane.exe.config
+C:\Users\1409-13\Desktop\Ramir  9a\ConsoleApp1\smqtane\bin\Debug\smqtane.exe
+C:\Users\1409-13\Desktop\Ramir  9a\ConsoleApp1\smqtane\bin\Debug\smqtane.pdb
+C:\Users\1409-13\Desktop\Ramir  9a\ConsoleApp1\smqtane\obj\Debug\smqtane.csproj.AssemblyReference.cache
+C:\Users\1409-13\Desktop\Ramir  9a\ConsoleApp1\smqtane\obj\Debug\smqtane.csproj.CoreCompileInputs.cache
+C:\Users\1409-13\Desktop\Ramir  9a\ConsoleApp1\smqtane\obj\Debug\smqtane.exe
+C:\Users\1409-13\Desktop\Ramir  9a\ConsoleApp1\smqtane\obj\Debug\smqtane.pdb
