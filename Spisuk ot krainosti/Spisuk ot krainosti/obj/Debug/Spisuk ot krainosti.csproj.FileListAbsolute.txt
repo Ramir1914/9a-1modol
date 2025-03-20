@@ -1,0 +1,7 @@
+C:\Users\ramir\source\repos\Spisuk ot krainosti\Spisuk ot krainosti\bin\Debug\Spisuk ot krainosti.exe.config
+C:\Users\ramir\source\repos\Spisuk ot krainosti\Spisuk ot krainosti\bin\Debug\Spisuk ot krainosti.exe
+C:\Users\ramir\source\repos\Spisuk ot krainosti\Spisuk ot krainosti\bin\Debug\Spisuk ot krainosti.pdb
+C:\Users\ramir\source\repos\Spisuk ot krainosti\Spisuk ot krainosti\obj\Debug\Spisuk ot krainosti.csproj.AssemblyReference.cache
+C:\Users\ramir\source\repos\Spisuk ot krainosti\Spisuk ot krainosti\obj\Debug\Spisuk ot krainosti.csproj.CoreCompileInputs.cache
+C:\Users\ramir\source\repos\Spisuk ot krainosti\Spisuk ot krainosti\obj\Debug\Spisuk ot krainosti.exe
+C:\Users\ramir\source\repos\Spisuk ot krainosti\Spisuk ot krainosti\obj\Debug\Spisuk ot krainosti.pdb

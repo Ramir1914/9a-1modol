@@ -1,0 +1,7 @@
+C:\Users\ramir\source\repos\Spisuk ot imena\Spisuk ot imena\bin\Debug\Spisuk ot imena.exe.config
+C:\Users\ramir\source\repos\Spisuk ot imena\Spisuk ot imena\bin\Debug\Spisuk ot imena.exe
+C:\Users\ramir\source\repos\Spisuk ot imena\Spisuk ot imena\bin\Debug\Spisuk ot imena.pdb
+C:\Users\ramir\source\repos\Spisuk ot imena\Spisuk ot imena\obj\Debug\Spisuk ot imena.csproj.AssemblyReference.cache
+C:\Users\ramir\source\repos\Spisuk ot imena\Spisuk ot imena\obj\Debug\Spisuk ot imena.csproj.CoreCompileInputs.cache
+C:\Users\ramir\source\repos\Spisuk ot imena\Spisuk ot imena\obj\Debug\Spisuk ot imena.exe
+C:\Users\ramir\source\repos\Spisuk ot imena\Spisuk ot imena\obj\Debug\Spisuk ot imena.pdb
