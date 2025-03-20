@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spisuk ot chetni chisla", "Spisuk ot chetni chisla\Spisuk ot chetni chisla.csproj", "{C74DD5C7-7211-464C-977D-509835A3271B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C74DD5C7-7211-464C-977D-509835A3271B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C74DD5C7-7211-464C-977D-509835A3271B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C74DD5C7-7211-464C-977D-509835A3271B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C74DD5C7-7211-464C-977D-509835A3271B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EE9CCAD-DF8B-497E-98A4-BDEB577A8583}
+	EndGlobalSection
+EndGlobal

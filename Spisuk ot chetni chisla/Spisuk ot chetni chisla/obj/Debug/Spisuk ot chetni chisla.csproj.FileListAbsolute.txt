@@ -1,0 +1,7 @@
+C:\Users\ramir\source\repos\Spisuk ot chetni chisla\Spisuk ot chetni chisla\bin\Debug\Spisuk ot chetni chisla.exe.config
+C:\Users\ramir\source\repos\Spisuk ot chetni chisla\Spisuk ot chetni chisla\bin\Debug\Spisuk ot chetni chisla.exe
+C:\Users\ramir\source\repos\Spisuk ot chetni chisla\Spisuk ot chetni chisla\bin\Debug\Spisuk ot chetni chisla.pdb
+C:\Users\ramir\source\repos\Spisuk ot chetni chisla\Spisuk ot chetni chisla\obj\Debug\Spisuk ot chetni chisla.csproj.AssemblyReference.cache
+C:\Users\ramir\source\repos\Spisuk ot chetni chisla\Spisuk ot chetni chisla\obj\Debug\Spisuk ot chetni chisla.csproj.CoreCompileInputs.cache
+C:\Users\ramir\source\repos\Spisuk ot chetni chisla\Spisuk ot chetni chisla\obj\Debug\Spisuk ot chetni chisla.exe
+C:\Users\ramir\source\repos\Spisuk ot chetni chisla\Spisuk ot chetni chisla\obj\Debug\Spisuk ot chetni chisla.pdb
