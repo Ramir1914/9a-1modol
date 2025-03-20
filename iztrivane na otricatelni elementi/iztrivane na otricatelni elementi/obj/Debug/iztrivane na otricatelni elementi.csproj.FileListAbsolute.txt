@@ -1,0 +1,7 @@
+C:\Users\ramir\source\repos\iztrivane na otricatelni elementi\iztrivane na otricatelni elementi\bin\Debug\iztrivane na otricatelni elementi.exe.config
+C:\Users\ramir\source\repos\iztrivane na otricatelni elementi\iztrivane na otricatelni elementi\bin\Debug\iztrivane na otricatelni elementi.exe
+C:\Users\ramir\source\repos\iztrivane na otricatelni elementi\iztrivane na otricatelni elementi\bin\Debug\iztrivane na otricatelni elementi.pdb
+C:\Users\ramir\source\repos\iztrivane na otricatelni elementi\iztrivane na otricatelni elementi\obj\Debug\iztrivane na otricatelni elementi.csproj.AssemblyReference.cache
+C:\Users\ramir\source\repos\iztrivane na otricatelni elementi\iztrivane na otricatelni elementi\obj\Debug\iztrivane na otricatelni elementi.csproj.CoreCompileInputs.cache
+C:\Users\ramir\source\repos\iztrivane na otricatelni elementi\iztrivane na otricatelni elementi\obj\Debug\iztrivane na otricatelni elementi.exe
+C:\Users\ramir\source\repos\iztrivane na otricatelni elementi\iztrivane na otricatelni elementi\obj\Debug\iztrivane na otricatelni elementi.pdb
